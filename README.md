@@ -1,7 +1,7 @@
 # PhotoEditingdetect
 
 ## Introduction
-Program for detecting image modifications.
+This is a program for detecting the degree of image editing
 
 The detection principle behind it is derived from the implementation of ['Analyzing Benford’s Law’s Powerful Applications in Image Forensics'](https://www.mdpi.com/2076-3417/11/23/11482) paper.
 
