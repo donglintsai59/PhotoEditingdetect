@@ -1,4 +1,4 @@
-# PhotoEditingdetect
+# PhotoEditingDetect
 
 ## Introduction
 This is a program for detecting the degree of image editing
