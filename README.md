@@ -8,7 +8,7 @@ The detection principle behind it is derived from the implementation of ['Analyz
 
 ## Example
 
-![image](https://github.com/donglintsai59/PhotoEditingdetect/blob/main/Photo/dec.jpg)
+![image](https://github.com/donglintsai59/PhotoEditingdetect/blob/main/example.jpg)
 
 ## Analyze
 
@@ -23,7 +23,7 @@ Note: This is based on experiments from the reference paper, where different n v
 
 ## 範例
 
-![image](https://github.com/donglintsai59/PhotoEditingdetect/blob/main/Photo/dec.jpg)
+![image](https://github.com/donglintsai59/PhotoEditingdetect/blob/main/example.jpg)
 
 ## 分析
 
