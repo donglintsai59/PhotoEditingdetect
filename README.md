@@ -3,7 +3,7 @@
 ## Introduction
 This is a program for detecting the degree of image editing
 
-The detection principle behind it is derived from the implementation of ['Analyzing Benford’s Law’s Powerful Applications in Image Forensics'](https://www.mdpi.com/2076-3417/11/23/11482) paper.
+The detection principle behind it is derived from the implementation of ['Federated Learning on Non-IID Data Silos: An Experimental Study'](https://ieeexplore.ieee.org/document/9835537) paper.
 
 
 ## Example
